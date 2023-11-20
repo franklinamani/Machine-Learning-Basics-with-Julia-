@@ -48,7 +48,7 @@ Insert your details below. You should see a green checkmark.
 """
 
 # ╔═╡ 9d38b22c-5893-4587-9c33-82d846fd0728
-student = (name="Franklin Safari", email="asafari@alberta.ca", ccid="asafari", idnumber=1695133)
+student = (name="Franklin Safari", email="asafari@alberta.ca", ccid="N/A", idnumber="N/A")
 
 # ╔═╡ 72d6b53f-f20d-4c05-abd4-d6fb4c997795
 let
