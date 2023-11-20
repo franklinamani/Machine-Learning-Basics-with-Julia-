@@ -52,8 +52,7 @@ Insert your details below. You should see a green checkmark.
 student = (
 	name="Franklin Safari", 
 	email="asafari@ualberta.ca", 
-	ccid="asafari", 
-	idnumber=1695133
+
 )
 
 # ╔═╡ bc0c5abe-1c2a-4e5c-bb0c-8d76b5e81133
